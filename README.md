@@ -1,5 +1,7 @@
 # SanityPress
 
+> 🙌🏽 Hats off to **(Mitchell Christ)[https://github.com/nuotsu/sanitypress]** for their efforts and generosity in open sourcing this!
+
 > _Ready, Set, Impress._
 
 A opinionated, fully customizable Next.js and Sanity starter template with Tailwind CSS and pre-built schema for rapid website development.
