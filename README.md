@@ -1,6 +1,6 @@
 # SanityPress
 
-> 🙌🏽 Hats off to **(Mitchell Christ)[https://github.com/nuotsu/sanitypress]** for their efforts and generosity in open sourcing this!
+> 🙌🏽 Hats off to **[Mitchell Christ](https://github.com/nuotsu/sanitypress)** for their efforts and generosity in open sourcing this!
 
 > _Ready, Set, Impress._
 
